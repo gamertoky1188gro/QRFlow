@@ -1,0 +1,5 @@
+cyber.code.master.qrflow.test.app-core-1.6.1-0 C:\Users\Rumki\.gradle\caches\8.9\transforms\ef98d44d9bc3313e7af9dc290f212bc0\transformed\core-1.6.1\res
+cyber.code.master.qrflow.test.app-androidTest-1 C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\build\generated\res\resValues\androidTest\debug
+cyber.code.master.qrflow.test.app-mergeDebugAndroidTestResources-2 C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+cyber.code.master.qrflow.test.app-mergeDebugAndroidTestResources-3 C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+cyber.code.master.qrflow.test.app-debugAndroidTest-4 C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
