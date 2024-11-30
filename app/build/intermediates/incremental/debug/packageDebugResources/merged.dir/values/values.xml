@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="qr_code_types">
+        <item>URL</item>
+        <item>vCard</item>
+        <item>Text</item>
+        <item>E-mail</item>
+        <item>SMS</item>
+        <item>WiFi</item>
+        <item>Bitcoin</item>
+        <item>Twitter</item>
+        <item>Facebook</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">QRFlow</string>
+    <style name="Base.Theme.QRFlow" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.QRFlow" parent="Base.Theme.QRFlow"/>
+</resources>

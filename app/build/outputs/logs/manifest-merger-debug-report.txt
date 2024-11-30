@@ -1,0 +1,389 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:17:1-56:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Rumki\.gradle\caches\8.9\transforms\8d68bcdb43d82cca35ec8a208383cb1d\transformed\picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\4c7511abebe03ef6ba6297d0e54265d5\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84de5cb9897f508155c9e865ee0f4f30\transformed\constraintlayout-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\fb1ab28635bc8798f38a5e2c6289ad6b\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c1b05e95d9feccafc9e0027d0e576891\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\b578b9ff35c84677fc68d744d645820c\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Rumki\.gradle\caches\8.9\transforms\46c9484ed48591a29dfd92953bc2516d\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\Rumki\.gradle\caches\8.9\transforms\73e6e93ebcaa2c1611027abfbc8b0a26\transformed\activity-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6de892b45a304fc75409ed4fadefefa\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\f7b75b02c7c9e1d7a0b0175eef091ef5\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3612f3e555ace1af5652b1985f0d6d11\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\d9a5e19edb517acea5144f6a59567a64\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\0b4786f17539f4cfa84ee9ff266ed711\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\288a61b7fb2689b8e40addb653cbb220\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\5f9e62b9b48f0232f0a792223ff87c71\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\abad14c49d871d9c16af925ec7d6cd87\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\8e2dcbd875af203d790b73d92fe2d0fb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\3dc70645714059fda48a90015272b35f\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\7e3b710603901b910606684d1409c3ed\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\27a872ff1e1cba1426d8ce96d7257a69\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\d7f0279b28cf732c97903d8c8747ec7e\transformed\core-ktx-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Rumki\.gradle\caches\8.9\transforms\e856c810a43f0ccc620ed8f676771f35\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3817206c615e1ad0a446d0014c2e415a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\2a1a345c111b80503a7e48f779ea1127\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\1da2a4d0429ad6c6b8b27fcfdd9f65bb\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\37b1c3e7a8da022a773a7bec48cf0b9b\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\ec7c675410d096eb85f44001b66e7f32\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\d0a30ece54f71b96f6f70fea2a310619\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\2acfa5ca56804757a7fea17e50a852fc\transformed\core-1.13.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\75834688a368ba4271a6e00da041ca0c\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\fb0e76697ccfca06867e10925d422ab3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\49bd5853648dc86d84c1c707a40a626d\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6221c282f4595827de8ea3ffc841b0a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\e35e9c414217ecbaf46c4a3f3eb1fd76\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\ee53a8542ffbec40daa27ae358ca128f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rumki\.gradle\caches\8.9\transforms\00c2e48ca68f998e4dc789a7152dc439\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\4b665462f6a3028a2f4227a5f959d0cf\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\1c673e457df507d79a9e62c15ebf3094\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\35f8bf57aaf4dd81ed3cdfac26417597\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\88bca8ae526239385999a5a7e99c461e\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\5ad6b8edc55840f7a90fc33641c5a79f\transformed\exifinterface-27.1.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:8:22-77
+application
+ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:10:5-31:19
+INJECTED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:10:5-31:19
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Rumki\.gradle\caches\8.9\transforms\8d68bcdb43d82cca35ec8a208383cb1d\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Rumki\.gradle\caches\8.9\transforms\8d68bcdb43d82cca35ec8a208383cb1d\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\4c7511abebe03ef6ba6297d0e54265d5\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\4c7511abebe03ef6ba6297d0e54265d5\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84de5cb9897f508155c9e865ee0f4f30\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84de5cb9897f508155c9e865ee0f4f30\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\8e2dcbd875af203d790b73d92fe2d0fb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\8e2dcbd875af203d790b73d92fe2d0fb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\2acfa5ca56804757a7fea17e50a852fc\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\2acfa5ca56804757a7fea17e50a852fc\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6221c282f4595827de8ea3ffc841b0a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6221c282f4595827de8ea3ffc841b0a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rumki\.gradle\caches\8.9\transforms\00c2e48ca68f998e4dc789a7152dc439\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rumki\.gradle\caches\8.9\transforms\00c2e48ca68f998e4dc789a7152dc439\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:11:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\2acfa5ca56804757a7fea17e50a852fc\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:17:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:15:9-54
+	android:roundIcon
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:18:9-54
+	tools:targetApi
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:21:9-29
+	android:icon
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:20:9-44
+	android:networkSecurityConfig
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:12:9-69
+	android:dataExtractionRules
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:14:9-65
+activity#cyber.code.master.qrflow.MainActivity
+ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:exported
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:23:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Rumki\.gradle\caches\8.9\transforms\8d68bcdb43d82cca35ec8a208383cb1d\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Rumki\.gradle\caches\8.9\transforms\8d68bcdb43d82cca35ec8a208383cb1d\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\4c7511abebe03ef6ba6297d0e54265d5\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\4c7511abebe03ef6ba6297d0e54265d5\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84de5cb9897f508155c9e865ee0f4f30\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84de5cb9897f508155c9e865ee0f4f30\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\fb1ab28635bc8798f38a5e2c6289ad6b\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\fb1ab28635bc8798f38a5e2c6289ad6b\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c1b05e95d9feccafc9e0027d0e576891\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c1b05e95d9feccafc9e0027d0e576891\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\b578b9ff35c84677fc68d744d645820c\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\b578b9ff35c84677fc68d744d645820c\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Rumki\.gradle\caches\8.9\transforms\46c9484ed48591a29dfd92953bc2516d\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Rumki\.gradle\caches\8.9\transforms\46c9484ed48591a29dfd92953bc2516d\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\Rumki\.gradle\caches\8.9\transforms\73e6e93ebcaa2c1611027abfbc8b0a26\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\Rumki\.gradle\caches\8.9\transforms\73e6e93ebcaa2c1611027abfbc8b0a26\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6de892b45a304fc75409ed4fadefefa\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6de892b45a304fc75409ed4fadefefa\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\f7b75b02c7c9e1d7a0b0175eef091ef5\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\f7b75b02c7c9e1d7a0b0175eef091ef5\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3612f3e555ace1af5652b1985f0d6d11\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3612f3e555ace1af5652b1985f0d6d11\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\d9a5e19edb517acea5144f6a59567a64\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\d9a5e19edb517acea5144f6a59567a64\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\0b4786f17539f4cfa84ee9ff266ed711\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\0b4786f17539f4cfa84ee9ff266ed711\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\288a61b7fb2689b8e40addb653cbb220\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\288a61b7fb2689b8e40addb653cbb220\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\5f9e62b9b48f0232f0a792223ff87c71\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\5f9e62b9b48f0232f0a792223ff87c71\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\abad14c49d871d9c16af925ec7d6cd87\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\abad14c49d871d9c16af925ec7d6cd87\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\8e2dcbd875af203d790b73d92fe2d0fb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\8e2dcbd875af203d790b73d92fe2d0fb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\3dc70645714059fda48a90015272b35f\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\3dc70645714059fda48a90015272b35f\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\7e3b710603901b910606684d1409c3ed\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\7e3b710603901b910606684d1409c3ed\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\27a872ff1e1cba1426d8ce96d7257a69\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\27a872ff1e1cba1426d8ce96d7257a69\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\d7f0279b28cf732c97903d8c8747ec7e\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\d7f0279b28cf732c97903d8c8747ec7e\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Rumki\.gradle\caches\8.9\transforms\e856c810a43f0ccc620ed8f676771f35\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Rumki\.gradle\caches\8.9\transforms\e856c810a43f0ccc620ed8f676771f35\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3817206c615e1ad0a446d0014c2e415a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3817206c615e1ad0a446d0014c2e415a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\2a1a345c111b80503a7e48f779ea1127\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\2a1a345c111b80503a7e48f779ea1127\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\1da2a4d0429ad6c6b8b27fcfdd9f65bb\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\1da2a4d0429ad6c6b8b27fcfdd9f65bb\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\37b1c3e7a8da022a773a7bec48cf0b9b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\37b1c3e7a8da022a773a7bec48cf0b9b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\ec7c675410d096eb85f44001b66e7f32\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\ec7c675410d096eb85f44001b66e7f32\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\d0a30ece54f71b96f6f70fea2a310619\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\d0a30ece54f71b96f6f70fea2a310619\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\2acfa5ca56804757a7fea17e50a852fc\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\2acfa5ca56804757a7fea17e50a852fc\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\75834688a368ba4271a6e00da041ca0c\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\75834688a368ba4271a6e00da041ca0c\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\fb0e76697ccfca06867e10925d422ab3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\fb0e76697ccfca06867e10925d422ab3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\49bd5853648dc86d84c1c707a40a626d\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\49bd5853648dc86d84c1c707a40a626d\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6221c282f4595827de8ea3ffc841b0a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6221c282f4595827de8ea3ffc841b0a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\e35e9c414217ecbaf46c4a3f3eb1fd76\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\e35e9c414217ecbaf46c4a3f3eb1fd76\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\ee53a8542ffbec40daa27ae358ca128f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\ee53a8542ffbec40daa27ae358ca128f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rumki\.gradle\caches\8.9\transforms\00c2e48ca68f998e4dc789a7152dc439\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rumki\.gradle\caches\8.9\transforms\00c2e48ca68f998e4dc789a7152dc439\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\4b665462f6a3028a2f4227a5f959d0cf\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\4b665462f6a3028a2f4227a5f959d0cf\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\1c673e457df507d79a9e62c15ebf3094\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\1c673e457df507d79a9e62c15ebf3094\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\35f8bf57aaf4dd81ed3cdfac26417597\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\35f8bf57aaf4dd81ed3cdfac26417597\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\88bca8ae526239385999a5a7e99c461e\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\88bca8ae526239385999a5a7e99c461e\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\5ad6b8edc55840f7a90fc33641c5a79f\transformed\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\5ad6b8edc55840f7a90fc33641c5a79f\transformed\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:22:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:34:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:37:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:40:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:43:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:47:9-53:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:50:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:49:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:51:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:53:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:48:13-74
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Rumki\.gradle\caches\8.9\transforms\8d68bcdb43d82cca35ec8a208383cb1d\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Rumki\.gradle\caches\8.9\transforms\8d68bcdb43d82cca35ec8a208383cb1d\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Rumki\.gradle\caches\8.9\transforms\8d68bcdb43d82cca35ec8a208383cb1d\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Rumki\.gradle\caches\8.9\transforms\8d68bcdb43d82cca35ec8a208383cb1d\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\8e2dcbd875af203d790b73d92fe2d0fb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\8e2dcbd875af203d790b73d92fe2d0fb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6221c282f4595827de8ea3ffc841b0a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6221c282f4595827de8ea3ffc841b0a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\8e2dcbd875af203d790b73d92fe2d0fb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\8e2dcbd875af203d790b73d92fe2d0fb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\8e2dcbd875af203d790b73d92fe2d0fb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\2acfa5ca56804757a7fea17e50a852fc\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\2acfa5ca56804757a7fea17e50a852fc\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\2acfa5ca56804757a7fea17e50a852fc\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+permission#cyber.code.master.qrflow.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\2acfa5ca56804757a7fea17e50a852fc\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\2acfa5ca56804757a7fea17e50a852fc\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\2acfa5ca56804757a7fea17e50a852fc\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\2acfa5ca56804757a7fea17e50a852fc\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\2acfa5ca56804757a7fea17e50a852fc\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+uses-permission#cyber.code.master.qrflow.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\2acfa5ca56804757a7fea17e50a852fc\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\2acfa5ca56804757a7fea17e50a852fc\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
