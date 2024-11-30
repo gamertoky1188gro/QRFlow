@@ -96,114 +96,113 @@
 53-->C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:18:9-54
 54        android:supportsRtl="true"
 54-->C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:19:9-35
-55        android:testOnly="true"
-56        android:theme="@style/Theme.QRFlow" >
-56-->C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:20:9-44
-57        <activity
-57-->C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:22:9-30:20
-58            android:name="cyber.code.master.qrflow.MainActivity"
-58-->C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:23:13-41
-59            android:exported="true" >
-59-->C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:24:13-36
-60            <intent-filter>
-60-->C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:25:13-29:29
-61                <action android:name="android.intent.action.MAIN" />
-61-->C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:26:17-69
-61-->C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:26:25-66
-62
-63                <category android:name="android.intent.category.LAUNCHER" />
-63-->C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:28:17-77
-63-->C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:28:27-74
-64            </intent-filter>
-65        </activity>
-66        <activity
-66-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:47:9-53:63
-67            android:name="com.journeyapps.barcodescanner.CaptureActivity"
-67-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:48:13-74
-68            android:clearTaskOnLaunch="true"
-68-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:49:13-45
-69            android:screenOrientation="sensorLandscape"
-69-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:50:13-56
-70            android:stateNotNeeded="true"
-70-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:51:13-42
-71            android:theme="@style/zxing_CaptureTheme"
-71-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:52:13-54
-72            android:windowSoftInputMode="stateAlwaysHidden" />
-72-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:53:13-60
-73
-74        <provider
-74-->[com.squareup.picasso:picasso:2.71828] C:\Users\Rumki\.gradle\caches\8.9\transforms\8d68bcdb43d82cca35ec8a208383cb1d\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
-75            android:name="com.squareup.picasso.PicassoProvider"
-75-->[com.squareup.picasso:picasso:2.71828] C:\Users\Rumki\.gradle\caches\8.9\transforms\8d68bcdb43d82cca35ec8a208383cb1d\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
-76            android:authorities="cyber.code.master.qrflow.com.squareup.picasso"
-76-->[com.squareup.picasso:picasso:2.71828] C:\Users\Rumki\.gradle\caches\8.9\transforms\8d68bcdb43d82cca35ec8a208383cb1d\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
-77            android:exported="false" />
-77-->[com.squareup.picasso:picasso:2.71828] C:\Users\Rumki\.gradle\caches\8.9\transforms\8d68bcdb43d82cca35ec8a208383cb1d\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
-78        <provider
-78-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
-79            android:name="androidx.startup.InitializationProvider"
-79-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
-80            android:authorities="cyber.code.master.qrflow.androidx-startup"
-80-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
-81            android:exported="false" >
-81-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
-82            <meta-data
-82-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
-83                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-83-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
-84                android:value="androidx.startup" />
-84-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
-85            <meta-data
-85-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\8e2dcbd875af203d790b73d92fe2d0fb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
-86                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-86-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\8e2dcbd875af203d790b73d92fe2d0fb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
-87                android:value="androidx.startup" />
-87-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\8e2dcbd875af203d790b73d92fe2d0fb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
-88            <meta-data
-88-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
-89                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-89-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
-90                android:value="androidx.startup" />
-90-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
-91        </provider>
-92
-93        <receiver
-93-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
-94            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-94-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
-95            android:directBootAware="false"
-95-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
-96            android:enabled="true"
-96-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
-97            android:exported="true"
-97-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
-98            android:permission="android.permission.DUMP" >
-98-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
-99            <intent-filter>
-99-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
-100                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-100-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
-100-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
-101            </intent-filter>
-102            <intent-filter>
-102-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
-103                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-103-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
-103-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
-104            </intent-filter>
-105            <intent-filter>
-105-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
-106                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-106-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
-106-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
-107            </intent-filter>
-108            <intent-filter>
-108-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
-109                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-109-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
-109-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
-110            </intent-filter>
-111        </receiver>
-112    </application>
-113
-114</manifest>
+55        android:theme="@style/Theme.QRFlow" >
+55-->C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:20:9-44
+56        <activity
+56-->C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:22:9-30:20
+57            android:name="cyber.code.master.qrflow.MainActivity"
+57-->C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:23:13-41
+58            android:exported="true" >
+58-->C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:24:13-36
+59            <intent-filter>
+59-->C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:25:13-29:29
+60                <action android:name="android.intent.action.MAIN" />
+60-->C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:26:17-69
+60-->C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:26:25-66
+61
+62                <category android:name="android.intent.category.LAUNCHER" />
+62-->C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:28:17-77
+62-->C:\Users\Rumki\AndroidStudioProjects\QRFlow\app\src\main\AndroidManifest.xml:28:27-74
+63            </intent-filter>
+64        </activity>
+65        <activity
+65-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:47:9-53:63
+66            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+66-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:48:13-74
+67            android:clearTaskOnLaunch="true"
+67-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:49:13-45
+68            android:screenOrientation="sensorLandscape"
+68-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:50:13-56
+69            android:stateNotNeeded="true"
+69-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:51:13-42
+70            android:theme="@style/zxing_CaptureTheme"
+70-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:52:13-54
+71            android:windowSoftInputMode="stateAlwaysHidden" />
+71-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\c6fc7db71ba7191eed18b0d27d30c858\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:53:13-60
+72
+73        <provider
+73-->[com.squareup.picasso:picasso:2.71828] C:\Users\Rumki\.gradle\caches\8.9\transforms\8d68bcdb43d82cca35ec8a208383cb1d\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+74            android:name="com.squareup.picasso.PicassoProvider"
+74-->[com.squareup.picasso:picasso:2.71828] C:\Users\Rumki\.gradle\caches\8.9\transforms\8d68bcdb43d82cca35ec8a208383cb1d\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+75            android:authorities="cyber.code.master.qrflow.com.squareup.picasso"
+75-->[com.squareup.picasso:picasso:2.71828] C:\Users\Rumki\.gradle\caches\8.9\transforms\8d68bcdb43d82cca35ec8a208383cb1d\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+76            android:exported="false" />
+76-->[com.squareup.picasso:picasso:2.71828] C:\Users\Rumki\.gradle\caches\8.9\transforms\8d68bcdb43d82cca35ec8a208383cb1d\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+77        <provider
+77-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+78            android:name="androidx.startup.InitializationProvider"
+78-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+79            android:authorities="cyber.code.master.qrflow.androidx-startup"
+79-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+80            android:exported="false" >
+80-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+81            <meta-data
+81-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+82                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+82-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+83                android:value="androidx.startup" />
+83-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\3e966b2c0cd5b43c4c518574ccc6ef10\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+84            <meta-data
+84-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\8e2dcbd875af203d790b73d92fe2d0fb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+85                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+85-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\8e2dcbd875af203d790b73d92fe2d0fb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+86                android:value="androidx.startup" />
+86-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Rumki\.gradle\caches\8.9\transforms\8e2dcbd875af203d790b73d92fe2d0fb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+87            <meta-data
+87-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+88                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+88-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+89                android:value="androidx.startup" />
+89-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+90        </provider>
+91
+92        <receiver
+92-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+93            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+93-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+94            android:directBootAware="false"
+94-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+95            android:enabled="true"
+95-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+96            android:exported="true"
+96-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+97            android:permission="android.permission.DUMP" >
+97-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+98            <intent-filter>
+98-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+99                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+99-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+99-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+100            </intent-filter>
+101            <intent-filter>
+101-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+102                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+102-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+102-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+103            </intent-filter>
+104            <intent-filter>
+104-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+105                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+105-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+105-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+106            </intent-filter>
+107            <intent-filter>
+107-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+108                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+108-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+108-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Rumki\.gradle\caches\8.9\transforms\84fcace21906fd32b1063cfcd809606c\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+109            </intent-filter>
+110        </receiver>
+111    </application>
+112
+113</manifest>
