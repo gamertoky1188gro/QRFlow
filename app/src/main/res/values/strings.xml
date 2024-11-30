@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QRFlow</string>
+    <string-array name="qr_code_types">
+        <item>URL</item>
+        <item>vCard</item>
+        <item>Text</item>
+        <item>E-mail</item>
+        <item>SMS</item>
+        <item>WiFi</item>
+        <item>Bitcoin</item>
+        <item>Twitter</item>
+        <item>Facebook</item>
+    </string-array>
+</resources>
